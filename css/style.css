@@ -181,6 +181,7 @@ font-weight: 500;
 .flex_around{
     display: flex;
     justify-content: space-around;
+    margin-bottom:30px;
 }
 .btnActive{
     background-color: #FBC896;
