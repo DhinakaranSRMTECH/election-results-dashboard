@@ -183,6 +183,9 @@ font-weight: 500;
     justify-content: space-around;
     margin-bottom:30px;
 }
+.stFilter{
+    margin-bottom:30px;
+}
 .btnActive{
     background-color: #FBC896;
     border-color: #FBC896;
